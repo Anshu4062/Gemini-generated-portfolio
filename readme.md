@@ -1,0 +1,1 @@
+This is developer portfolio generated through gemini 2.5 pro model.
